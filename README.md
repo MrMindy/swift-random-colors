@@ -8,11 +8,13 @@ The app main purpose is to display some random color each time it opened.
 - UIViewController
 - NavigationController
 - UITableView
--- UITableViewDataSource, UITableViewDelegate
+ * UITableViewDataSource
+ * UITableViewDelegate
 
 ## Images
 <p float="left">
-  <!--<img src="" alt="exemplo imagem" style="width:300px">-->
+  <img src="app_main_screen.jpeg" alt="exemplo imagem" style="width:300px">
+  <img src="app_color_detail_screen.jpeg" alt="exemplo imagem" style="width:300px">
 </p>
 
 
