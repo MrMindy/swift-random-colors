@@ -2,14 +2,13 @@
 
 The app main purpose is to display some random color each time it opened.
 
-
-This app was created by following the instructions of: https://www.youtube.com/c/StevdzaSan
-
 ## 🔧 Used resources
 
 ### UIKit Components:
 - UIViewController
 - NavigationController
+- UITableView
+-- UITableViewDataSource, UITableViewDelegate
 
 ## Images
 <p float="left">
